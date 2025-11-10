@@ -23,8 +23,23 @@ Confira a demonstração do site: [Snap](https://vercel.com/lais-guedes-projects
 
 Clone o repositório
 ```bash
-git clone https://github.com/LaisGuedesA/workit.git
+git clone (https://github.com/LaisGuedesA/snap.git)
 ```
 
+## Installation and usage
+Para rodar a página localmente, basta abrir o arquivo `index.html` no seu navegador.
+
+## :package: Dependencies and libs
+- [Bootstrap] - Framework para o design responsivo (caso queira fazer ajustes no layout)
+
+## :bookmark_tabs: Release History
+- 0.1.0
+  - Init: Primeira versão da Landing Page "Snap"
+
+## :smiley_cat: Authors
+- Laís Guedes
+
+## :memo: License
+Este projeto está licenciado sob a [MIT License](./LICENSE). Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
