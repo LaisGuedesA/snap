@@ -10,10 +10,21 @@ Durante o desenvolvimento, foram aplicadas boas práticas de estruturação sem�
 - **Tecnologias Usadas**: **HTML**, **CSS**, **JavaScript**.
 
 ## :rice_scene: Screenshot
-<img width="1850" height="882" alt="Image" src="https://github.com/LaisGuedesA/snap/issues/1#issue-360924350" />
+<img width="1850" height="882" alt="Image" src="https://github.com/LaisGuedesA/snap/issues/1#issue-360924350"/>
 
 ## :dvd: Demonstração
-Confira a demonstração do site: [Workit](https://workit-lyart.vercel.app/)
+Confira a demonstração do site: [Snap](https://vercel.com/lais-guedes-projects/snap/G8Cpv9QtifELrtv61mxUjfyekjbp)
+
+## :heavy_exclamation_mark: Requirements
+* Navegador moderno (Chrome, Firefox, Edge)
+* Conexão com a internet para visualizar a página online
+
+## Installation and usage
+
+Clone o repositório
+```bash
+git clone https://github.com/LaisGuedesA/workit.git
+```
 
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
