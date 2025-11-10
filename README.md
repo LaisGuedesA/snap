@@ -12,5 +12,8 @@ Durante o desenvolvimento, foram aplicadas boas práticas de estruturação sem�
 ## :rice_scene: Screenshot
 <img width="1850" height="882" alt="Image" src="https://github.com/LaisGuedesA/snap/issues/1#issue-360924350" />
 
+## :dvd: Demonstração
+Confira a demonstração do site: [Workit](https://workit-lyart.vercel.app/)
+
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
