@@ -13,7 +13,7 @@ Durante o desenvolvimento, foram aplicadas boas práticas de estruturação sem�
 <img width="1850" height="882" alt="Image" src="https://github.com/LaisGuedesA/snap/issues/1">
 
 ## :dvd: Demonstração
-Confira a demonstração do site: [Snap](https://vercel.com/lais-guedes-projects/snap/G8Cpv9QtifELrtv61mxUjfyekjbp)
+Confira a demonstração do site: [Snap](https://snap-ra8hv6rg9-lais-guedes-projects.vercel.app/)
 
 ## :heavy_exclamation_mark: Requirements
 * Navegador moderno (Chrome, Firefox, Edge)
